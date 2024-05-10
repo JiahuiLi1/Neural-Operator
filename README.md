@@ -9,10 +9,10 @@ This is a collection of research papers on neural operators.
 '''
 
 ## Table of Contents
-- [A Taxonomy of Model-Based RL Algorithms](#a-taxonomy-of-model-based-rl-algorithms)
+- [Sub-journal of nature](#sub-journal-of-nature)
 - [Papers](#papers)
   - [Classic Model-Based RL Papers](#classic-model-based-rl-papers)
-  - [ICLR 2024 (New!!!)](#iclr-2024)
+  - [ICLR 2024](#iclr-2024)
   - [NeurIPS 2023](#neurips-2023)
   - [ICML 2023](#icml-2023)
   - [ICLR 2023](#iclr-2023)
@@ -37,13 +37,13 @@ We’ll start this section with a disclaimer: it’s really quite hard to draw a
 <summary>Toggle</summary>
 <ul>
   <li><a href="https://www.nature.com/articles/s42254-024-00712-5"> Neural operators for accelerating scientific simulations and design</a></li>
-  <li>Richard S. Sutton. ACM 1991</li>
+  <li>Kamyar Azizzadenesheli, Nikola Kovachki, Zongyi Li, Miguel Liu-Schiaffini, Jean Kossaifi & Anima Anandkumar</li>
   <li>Key: dyna architecture</li>
   <li>ExpEnv: None</li>
 </ul>
 </details>
 
-### ICLR 2024 (New!!!)
+### ICLR 2024
 
 <details>
 <summary>Toggle</summary>
