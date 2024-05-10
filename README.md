@@ -31,12 +31,12 @@ This is a collection of research papers on neural operators.
 We’ll start this section with a disclaimer: it’s really quite hard to draw an accurate, all-encompassing taxonomy of algorithms in the Model-Based RL space, because the modularity of algorithms is not well-represented by a tree structure. So we will publish a series of related blogs to explain more Model-Based RL algorithms.
 
 ## Papers
-### Classic Model-Based RL Papers
+### Sub-journal of nature
 
 <details>
 <summary>Toggle</summary>
 <ul>
-  <li><a href="https://dl.acm.org/doi/10.1145/115640.115648">Dyna, an integrated architecture for learning, planning, and reacting</a></li>
+  <li><a href="https://dl.acm.org/doi/10.1145/115640.115648"> Neural operators for accelerating scientific simulations and design</li>
   <li>Richard S. Sutton. ACM 1991</li>
   <li>Key: dyna architecture</li>
   <li>ExpEnv: None</li>
