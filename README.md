@@ -87,6 +87,16 @@ We’ll start this section with a disclaimer:
       <li>ExpEnv: None</li>
     </ul>
   </li>
+
+  <li>
+  <a href="https://proceedings.neurips.cc/paper_files/paper/2023/file/f3c1951b34f7f55ffaecada7fde6bd5a-Paper-Conference.pdf">Convolutional Neural Operators for robust and accurate learning of PDEs</a>
+  <ul>
+    <li>Bogdan Raonic, Roberto Molinaro, Tim De Ryck, Tobias Rohner, Francesca Bartolucci, Rima Alaifari, Siddhartha Mishra, Emmanuel de Bézenac</li>
+    <li>Key: convolutional neural operators (CNOs)</li>
+    <li>ExpEnv: None</li>
+  </ul>
+  </li>
+
   
 </ul>
   
