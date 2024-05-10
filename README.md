@@ -71,7 +71,8 @@ We’ll start this section with a disclaimer:
     <li>ExpEnv: None</li>
   <ul>
 </ul>
-
+    
+<summary>Toggle</summary>
 <ul>
   <li><a href="https://proceedings.neurips.cc/paper_files/paper/2023/file/70518ea42831f02afc3a2828993935ad-Paper-Conference.pdf"> Geometry-Informed Neural Operator for Large-Scale 3D PDEs</a></li>
   <ul>
