@@ -27,8 +27,8 @@ This is a collection of research papers on neural operators.
 - [Codebase](#codebase)
 - [Contributing](#contributing)
 
-## A Taxonomy of Model-Based RL Algorithms
-We’ll start this section with a disclaimer: it’s really quite hard to draw an accurate, all-encompassing taxonomy of algorithms in the Model-Based RL space, because the modularity of algorithms is not well-represented by a tree structure. So we will publish a series of related blogs to explain more Model-Based RL algorithms.
+## Classification of neural operator networks
+We’ll start this section with a disclaimer:
 
 ## Papers
 ### Sub-journal of nature
