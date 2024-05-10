@@ -2,14 +2,9 @@
 This is a collection of research papers on neural operators. 
 
 ## Update Log
-[2023.11.29] New: We update the ICLR 2024 submissions of model-based rl!
-[2023.09.29] We update the NeurIPS 2023 paper list of model-based rl.
-[2023.06.15] We update the ICML 2023 paper list of model-based rl.
-[2023.02.05] We update the ICLR 2023 paper list of model-based rl.
-[2022.11.03] We update the NeurIPS 2022 paper list of model-based rl.
-[2022.07.06] We update the ICML 2022 paper list of model-based rl.
-[2022.02.13] We update the ICLR 2022 paper list of model-based rl.
-[2021.12.28] We release the awesome model-based rl.
+
+#[2022.02.13] We update the ICLR 2022 paper list of model-based rl.
+#[2021.12.28] We release the awesome model-based rl.
 
 
 ## Table of Contents
