@@ -9,9 +9,9 @@ This is a collection of research papers on neural operators.
 '''
 
 ## Table of Contents
-- [Sub-journal of nature](#sub-journal-of-nature)
+- [Classification of neural operator networks](#classification-of-neural-operator-networks)
 - [Papers](#papers)
-  - [Classic Model-Based RL Papers](#classic-model-based-rl-papers)
+  - [Sub-journal of nature](#sub-journal-of-nature)
   - [ICLR 2024](#iclr-2024)
   - [NeurIPS 2023](#neurips-2023)
   - [ICML 2023](#icml-2023)
