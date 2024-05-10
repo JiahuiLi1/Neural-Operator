@@ -72,8 +72,16 @@ We’ll start this section with a disclaimer:
   <ul>
 </ul>
 
+<ul>
+  <li><a href="https://proceedings.neurips.cc/paper_files/paper/2023/file/70518ea42831f02afc3a2828993935ad-Paper-Conference.pdf"> Geometry-Informed Neural Operator for Large-Scale 3D PDEs</a></li>
+  <ul>
+    <li>Zongyi Li, Nikola Kovachki, Chris Choy, Boyi Li, Jean Kossaifi, Shourya Otta, Mohammad Amin Nabian, Maximilian Stadler, Christian Hundt, Kamyar Azizzadenesheli, Animashree Anandkumar</li>
+    <li>Key: geometry-informed neural operator(GINO)</li>
+    <li>ExpEnv: None</li>
+  <ul>
+</ul>
 
-    
+
 </details>
 
 
