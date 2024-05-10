@@ -36,7 +36,7 @@ We’ll start this section with a disclaimer: it’s really quite hard to draw a
 <details>
 <summary>Toggle</summary>
 <ul>
-  <li><a href="https://dl.acm.org/doi/10.1145/115640.115648"> Neural operators for accelerating scientific simulations and design</a></li>
+  <li><a href="https://www.nature.com/articles/s42254-024-00712-5"> Neural operators for accelerating scientific simulations and design</a></li>
   <li>Richard S. Sutton. ACM 1991</li>
   <li>Key: dyna architecture</li>
   <li>ExpEnv: None</li>
