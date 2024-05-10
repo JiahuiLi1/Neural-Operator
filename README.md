@@ -37,9 +37,11 @@ We’ll start this section with a disclaimer:
 <summary>Toggle</summary>
 <ul>
   <li><a href="https://www.nature.com/articles/s42254-024-00712-5"> Neural operators for accelerating scientific simulations and design</a></li>
-  <li>Kamyar Azizzadenesheli, Nikola Kovachki, Zongyi Li, Miguel Liu-Schiaffini, Jean Kossaifi & Anima Anandkumar</li>
-  <li>Key: dyna architecture</li>
-  <li>ExpEnv: None</li>
+  <ul>
+    <li>Kamyar Azizzadenesheli, Nikola Kovachki, Zongyi Li, Miguel Liu-Schiaffini, Jean Kossaifi & Anima Anandkumar</li>
+    <li>Key: dyna architecture</li>
+    <li>ExpEnv: None</li>
+    <ul>
 </ul>
 </details>
 
@@ -53,6 +55,14 @@ We’ll start this section with a disclaimer:
   <li>Key: Key insights</li>
   <li>ExpEnv: Experiment environment</li>
 </ul>
+
+<ul>
+  <li><a href="https://www.nature.com/articles/s42254-024-00712-5"> Neural operators for accelerating scientific simulations and design</a></li>
+  <li>Kamyar Azizzadenesheli, Nikola Kovachki, Zongyi Li, Miguel Liu-Schiaffini, Jean Kossaifi & Anima Anandkumar</li>
+  <li>Key: dyna architecture</li>
+  <li>ExpEnv: None</li>
+</ul>
+  
 </details>
 
 ### NeurIPS 2023
