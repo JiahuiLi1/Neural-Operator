@@ -37,14 +37,18 @@ We’ll start this section with a disclaimer:
 <summary>Toggle</summary>
   
 <ul>
-  <li><a href="https://www.nature.com/articles/s42254-024-00712-5"> Neural operators for accelerating scientific simulations and design</a></li>
-  <ul>
-    <li>Kamyar Azizzadenesheli, Nikola Kovachki, Zongyi Li, Miguel Liu-Schiaffini, Jean Kossaifi & Anima Anandkumar</li>
-    <li>Key: dyna architecture</li>
-    <li>ExpEnv: None</li>
-  <ul>
+  
+  <li>
+    <a href="https://www.nature.com/articles/s42254-024-00712-5"> Neural operators for accelerating scientific simulations and design</a></li>
+    <ul>
+      <li>Kamyar Azizzadenesheli, Nikola Kovachki, Zongyi Li, Miguel Liu-Schiaffini, Jean Kossaifi & Anima Anandkumar</li>
+      <li>Key: dyna architecture</li>
+      <li>ExpEnv: None</li>
+    </ul>
+  </li>
+  
 </ul>
-    
+
 </details>
 
 ### ICLR 2024
@@ -61,29 +65,33 @@ We’ll start this section with a disclaimer:
 </details>
 
 ### NeurIPS 2023
+
 <details>
 <summary>Toggle</summary>
 <ul>
-  <li><a href="https://proceedings.neurips.cc/paper_files/paper/2023/file/dc35c593e61f6df62db541b976d09dcf-Paper-Conference.pdf"> Representation Equivalent Neural Operators: a Framework for Alias-free Operator Learning</a></li>
-  <ul>
-    <li>Francesca Bartolucci, Emmanuel de Bézenac, Bogdan Raonic, Roberto Molinaro, Siddhartha Mishra, Rima Alaifari</li>
-    <li>Key: operator learning; Representation equivalent Neural Operators(ReNO); the concept of operator aliasing </li>
-    <li>ExpEnv: None</li>
-  <ul>
+  
+  <li>
+    <a href="https://proceedings.neurips.cc/paper_files/paper/2023/file/dc35c593e61f6df62db541b976d09dcf-Paper-Conference.pdf">Representation Equivalent Neural Operators: a Framework for Alias-free Operator Learning</a>
+    <ul>
+      <li>Francesca Bartolucci, Emmanuel de Bézenac, Bogdan Raonic, Roberto Molinaro, Siddhartha Mishra, Rima Alaifari</li>
+      <li>Key: operator learning; Representation equivalent Neural Operators (ReNO); the concept of operator aliasing</li>
+      <li>ExpEnv: None</li>
+    </ul>
+  </li>
+  
+  <li>
+    <a href="https://proceedings.neurips.cc/paper_files/paper/2023/file/70518ea42831f02afc3a2828993935ad-Paper-Conference.pdf">Geometry-Informed Neural Operator for Large-Scale 3D PDEs</a>
+    <ul>
+      <li>Zongyi Li, Nikola Kovachki, Chris Choy, Boyi Li, Jean Kossaifi, Shourya Otta, Mohammad Amin Nabian, Maximilian Stadler, Christian Hundt, Kamyar Azizzadenesheli, Animashree Anandkumar</li>
+      <li>Key: geometry-informed neural operator (GINO)</li>
+      <li>ExpEnv: None</li>
+    </ul>
+  </li>
+  
 </ul>
-    
-<summary>Toggle</summary>
-<ul>
-  <li><a href="https://proceedings.neurips.cc/paper_files/paper/2023/file/70518ea42831f02afc3a2828993935ad-Paper-Conference.pdf"> Geometry-Informed Neural Operator for Large-Scale 3D PDEs</a></li>
-  <ul>
-    <li>Zongyi Li, Nikola Kovachki, Chris Choy, Boyi Li, Jean Kossaifi, Shourya Otta, Mohammad Amin Nabian, Maximilian Stadler, Christian Hundt, Kamyar Azizzadenesheli, Animashree Anandkumar</li>
-    <li>Key: geometry-informed neural operator(GINO)</li>
-    <li>ExpEnv: None</li>
-  <ul>
-</ul>
-
-
+  
 </details>
+
 
 
 ### ICML 2023
