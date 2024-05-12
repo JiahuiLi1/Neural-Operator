@@ -3,6 +3,8 @@ This is a collection of research papers on neural operators.
 
 ## Update Log
 
+- **[2024.05.12]** We update the NeurIPS 2023 paper list of neural operator.
+- **[2024.05.10]** We release the awesome neural operator.
 
 ## Table of Contents
 - [Classification of neural operator networks](#classification-of-neural-operator-networks)
