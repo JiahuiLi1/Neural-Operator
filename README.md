@@ -3,10 +3,6 @@ This is a collection of research papers on neural operators.
 
 ## Update Log
 
-'''
-[2022.02.13] We update the ICLR 2022 paper list of model-based rl.
-[2021.12.28] We release the awesome model-based rl.
-'''
 
 ## Table of Contents
 - [Classification of neural operator networks](#classification-of-neural-operator-networks)
