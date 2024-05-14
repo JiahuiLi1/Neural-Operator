@@ -234,3 +234,15 @@ We’ll start this section with a disclaimer:
   <li>Details about contributing.</li>
 </ul>
 </details>
+
+
+
+## Contributing
+<details>
+<summary>Toggle</summary>
+<!-- <ul>
+  <li>Details about contributing.</li>
+</ul> -->
+- [text](https://proceedings.neurips.cc/paper_files/paper/2023/file/df54302388bbc145aacaa1a54a4a5933-Paper-Conference.pdf)
+  - key: neural operator
+</details>
