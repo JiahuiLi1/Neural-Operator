@@ -95,6 +95,16 @@ We’ll start this section with a disclaimer:
   </ul>
   </li>
 
+  <li>
+  <a href="https://proceedings.neurips.cc/paper_files/paper/2023/file/940a7634dab556b67af15bacd337f7db-Paper-Conference.pdf">Domain Agnostic Fourier Neural Operators</a>
+  <ul>
+    <li>Ning Liu, Siavash Jafarzadeh, Yue Yu</li>
+    <li>Key: convolutional neural operators (CNOs)</li>
+    <li>ExpEnv: None</li>
+  </ul>
+  </li>
+
+
   
 </ul>
   
