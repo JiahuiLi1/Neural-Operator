@@ -104,6 +104,79 @@ We’ll start this section with a disclaimer:
   </ul>
   </li>
 
+  <li>
+  <a href="https://papers.nips.cc/paper_files/paper/2023/file/d899a31938c7838965b589d9b14a5ca6-Paper-Conference.pdf">ASPEN: Breaking Operator Barriers for Efficient Parallelization of Deep Neural Networks</a>
+  <ul>
+    <li>Jongseok Park, Kyungmin Bin, Gibum Park, Sangtae Ha, Kyunghan Lee</li>
+    <li>Key: </li>
+    <li>ExpEnv: None</li>
+  </ul>
+  </li>
+
+  <li>
+  <a href="https://papers.nips.cc/paper_files/paper/2023/file/b40d5797756800c97f3d525c2e4c8357-Paper-Conference.pdf">Globally injective and bijective neural operators</a>
+  <ul>
+    <li>Takashi Furuya, Michael Puthawala, Matti Lassas, Maarten V. de Hoop</li>
+    <li>Key: </li>
+    <li>ExpEnv: None</li>
+  </ul>
+  </li>
+
+  <li>
+  <a href="https://papers.nips.cc/paper_files/paper/2023/file/32cc61322f1e2f56f989d29ccc7cfbb7-Paper-Conference.pdf">Deep Equilibrium Based Neural Operators for Steady-State PDEs</a>
+  <ul>
+    <li>Tanya Marwah, Ashwini Pokle, J. Zico Kolter, Zachary Lipton, Jianfeng Lu, Andrej Risteski</li>
+    <li>Key: </li>
+    <li>ExpEnv: None</li>
+  </ul>
+  </li>
+
+  <li>
+  <a href="https://papers.nips.cc/paper_files/paper/2023/file/c362fbc0d182c6b4b8dadb90177239e4-Paper-Conference.pdf">Equivariant Neural Operator Learning with Graphon Convolution</a>
+  <ul>
+    <li>Chaoran Cheng, Jian Peng</li>
+    <li>Key: </li>
+    <li>ExpEnv: None</li>
+  </ul>
+  </li>
+
+  <li>
+  <a href="https://papers.nips.cc/paper_files/paper/2023/file/57d7e7e1593ad1ab6818c258fa5654ce-Paper-Conference.pdf">Training neural operators to preserve invariant measures of chaotic attractors</a>
+  <ul>
+    <li>Ruoxi Jiang, Peter Y. Lu, Elena Orlova, Rebecca Willett</li>
+    <li>Key: </li>
+    <li>ExpEnv: None</li>
+  </ul>
+  </li>
+
+  <li>
+  <a href="https://papers.nips.cc/paper_files/paper/2023/file/948d8ba4e30c8c3a800cf436b31f376e-Paper-Conference.pdf">DeepPCR: Parallelizing Sequential Operations in Neural Networks</a>
+  <ul>
+    <li>Federico Danieli, Miguel Sarabia, Xavier Suau Cuadros, Pau Rodriguez, Luca Zappella</li>
+    <li>Key: </li>
+    <li>ExpEnv: None</li>
+  </ul>
+  </li>
+
+  <li>
+  <a href="https://papers.nips.cc/paper_files/paper/2023/file/df54302388bbc145aacaa1a54a4a5933-Paper-Conference.pdf">Operator Learning with Neural Fields: Tackling PDEs on General Geometries</a>
+  <ul>
+    <li>Louis Serrano, Lise Le Boudec, Armand Kassaï Koupaï, Thomas X Wang, Yuan Yin, Jean-Noël Vittaut, Patrick Gallinari</li>
+    <li>Key: </li>
+    <li>ExpEnv: None</li>
+  </ul>
+  </li>
+
+  <li>
+  <a href="https://papers.nips.cc/paper_files/paper/2023/file/df54302388bbc145aacaa1a54a4a5933-Paper-Conference.pdf">Operator Learning with Neural Fields: Tackling PDEs on General Geometries</a>
+  <ul>
+    <li>Louis Serrano, Lise Le Boudec, Armand Kassaï Koupaï, Thomas X Wang, Yuan Yin, Jean-Noël Vittaut, Patrick Gallinari</li>
+    <li>Key: </li>
+    <li>ExpEnv: None</li>
+  </ul>
+  </li>
+
+
 
   
 </ul>
@@ -236,13 +309,3 @@ We’ll start this section with a disclaimer:
 </details>
 
 
-
-## Contributing
-<details>
-<summary>Toggle</summary>
-<!-- <ul>
-  <li>Details about contributing.</li>
-</ul> -->
-- [text](https://proceedings.neurips.cc/paper_files/paper/2023/file/df54302388bbc145aacaa1a54a4a5933-Paper-Conference.pdf)
-  - key: neural operator
-</details>
