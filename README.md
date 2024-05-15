@@ -176,8 +176,6 @@ We’ll start this section with a disclaimer:
   </ul>
   </li>
 
-
-
   
 </ul>
   
@@ -211,10 +209,27 @@ We’ll start this section with a disclaimer:
 <details>
 <summary>Toggle</summary>
 <ul>
-  <li>Paper Title</li>
-  <li>Author1, Author2, and Author3</li>
-  <li>Key: Key insights</li>
-  <li>ExpEnv: Experiment environment</li>
+  
+  <li>
+  <a href="https://papers.nips.cc/paper_files/paper/2022/file/5ddfb189c022a317ff1c72e6639079de-Paper-Conference.pdf">NeurOLight: A Physics-Agnostic Neural Operator Enabling Parametric Photonic Device Simulation</a>
+  <ul>
+    <li>Jiaqi Gu, Zhengqi Gao, Chenghao Feng, Hanqing Zhu, Ray Chen, Duane Boning, David Pan</li>
+    <li>Key: </li>
+    <li>ExpEnv: <a href="https://papers.nips.cc/paper_files/paper/2022/file/5ddfb189c022a317ff1c72e6639079de-Paper-Conference.pdf">NeurOLight: A Physics-Agnostic Neural Operator Enabling Parametric Photonic Device Simulation</a></li>
+  </ul>
+  </li>
+
+  <li>
+  <a href="https://papers.nips.cc/paper_files/paper/2022/file/6cdd4ce9330025967dd1ed0bed3010f5-Paper-Conference.pdf">Operative dimensions in unconstrained connectivity of recurrent neural networks</a>
+  <ul>
+    <li>Jiaqi Gu, Zhengqi Gao, Chenghao Feng, Hanqing Zhu, Ray Chen, Duane Boning, David Pan</li>
+    <li>Key: </li>
+    <li>ExpEnv: <a href="https://gitlab.com/neuroinf/operativeDimensions">operativeDimensions</a></li>
+  </ul>
+  </li>
+
+
+
 </ul>
 </details>
 
