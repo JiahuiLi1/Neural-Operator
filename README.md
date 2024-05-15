@@ -215,7 +215,7 @@ We’ll start this section with a disclaimer:
   <ul>
     <li>Jiaqi Gu, Zhengqi Gao, Chenghao Feng, Hanqing Zhu, Ray Chen, Duane Boning, David Pan</li>
     <li>Key: </li>
-    <li>ExpEnv: <a href="https://papers.nips.cc/paper_files/paper/2022/file/5ddfb189c022a317ff1c72e6639079de-Paper-Conference.pdf">NeurOLight: A Physics-Agnostic Neural Operator Enabling Parametric Photonic Device Simulation</a></li>
+    <li>ExpEnv: none</li>
   </ul>
   </li>
 
@@ -227,7 +227,6 @@ We’ll start this section with a disclaimer:
     <li>ExpEnv: <a href="https://gitlab.com/neuroinf/operativeDimensions">operativeDimensions</a></li>
   </ul>
   </li>
-
 
 
 </ul>
@@ -259,10 +258,26 @@ We’ll start this section with a disclaimer:
 <details>
 <summary>Toggle</summary>
 <ul>
-  <li>Paper Title</li>
-  <li>Author1, Author2, and Author3</li>
-  <li>Key: Key insights</li>
-  <li>ExpEnv: Experiment environment</li>
+
+  <li>
+  <a href="https://papers.nips.cc/paper_files/paper/2021/file/eaa1da31f7991743d18dadcf5fd1336f-Paper.pdf">Faster Neural Network Training with Approximate Tensor Operations</a>
+  <ul>
+    <li>Menachem Adelman, Kfir Levy, Ido Hakimi, Mark Silberstein</li>
+    <li>Key: </li>
+    <li>ExpEnv: <a href="https://openreview.net/forum?id=Rz-hPxb6ODl">Reviews And Public Comment</a></li>
+  </ul>
+  </li>
+
+  <li>
+  <a href="https://papers.nips.cc/paper_files/paper/2021/file/84fdbc3ac902561c00871c9b0c226756-Paper.pdf">Rethinking Neural Operations for Diverse Tasks</a>
+  <ul>
+    <li>Nicholas Roberts, Mikhail Khodak, Tri Dao, Liam Li, Christopher Ré, Ameet Talwalkar</li>
+    <li>Key: </li>
+    <li>ExpEnv: <a href="https://openreview.net/forum?id=je4ymjfb5LC">Reviews And Public Comment</a></li>
+  </ul>
+  </li>
+
+
 </ul>
 </details>
 
