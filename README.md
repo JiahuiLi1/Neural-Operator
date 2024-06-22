@@ -72,7 +72,7 @@ We’ll start this section with a disclaimer:
   - [Transolver: A Fast Transformer Solver for PDEs on General Geometries](https://arxiv.org/pdf/2402.02366)
     - Haixu Wu, Huakun Luo, Haowen Wang, Jianmin Wang, Mingsheng Long
     - Key: Physics-Attention; Transformer
-    - ExpEnv: None
+    - ExpEnv: [Codes](https://github.com/thuml/Transolver)
   
 </details>
 
